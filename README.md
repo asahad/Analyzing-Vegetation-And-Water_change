@@ -23,3 +23,4 @@ You can install the required libraries using `pip`:
 ```bash
 pip install geopandas rasterio matplotlib imageio osmnx
 
+The data analysis is in the Jupyter notebook named ndvi_timeseries
